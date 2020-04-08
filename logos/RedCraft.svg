@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24">
-<path d="M0 0h6v2h-4v4h-2v-6z" fill="rgb(255,255,255)"/>
 <path d="M6 0h12v2h4v4h2v12h-2v4h-4v2h-12v-2h-4v-4h-2v-12h2v-4h4v-2z" fill="rgb(73,18,16)"/>
-<path d="M18 0h6v6h-2v-4h-4v-2z" fill="rgb(255,255,255)"/>
 <path d="M7 1h1v1h-1v-1z" fill="rgb(166,20,0)"/>
 <path d="M8 1h2v1h-2v-1z" fill="rgb(149,12,0)"/>
 <path d="M10 1h2v1h-2v-1z" fill="rgb(154,15,0)"/>
@@ -132,7 +130,6 @@
 <path d="M12 17h2v1h-2v-1z" fill="rgb(207,36,7)"/>
 <path d="M15 17h1v1h-1v-1z" fill="rgb(234,238,87)"/>
 <path d="M16 17h2v3h-3v-2h1v-1z" fill="rgb(61,61,36)"/>
-<path d="M0 18h2v4h4v2h-6v-6z" fill="rgb(255,255,255)"/>
 <path d="M3 18h1v2h2v1h-3v-3z" fill="rgb(161,18,0)"/>
 <path d="M4 18h1v2h-1v-2z" fill="rgb(130,4,0)"/>
 <path d="M6 18h1v1h-1v-1z" fill="rgb(234,238,87)"/>
@@ -143,7 +140,6 @@
 <path d="M16 18h1v1h-1v-1z" fill="rgb(234,238,87)"/>
 <path d="M18 18h2v2h-2v-2z" fill="rgb(136,8,0)"/>
 <path d="M20 18h1v1h-1v-1z" fill="rgb(152,13,0)"/>
-<path d="M22 18h2v6h-6v-2h4v-4z" fill="rgb(255,255,255)"/>
 <path d="M20 19h1v1h-1v-1z" fill="rgb(149,12,0)"/>
 <path d="M6 20h2v2h-1v-1h-1v-1z" fill="rgb(186,20,0)"/>
 <path d="M8 20h2v2h-2v-2z" fill="rgb(181,21,0)"/>
